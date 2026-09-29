@@ -1,6 +1,6 @@
 {
   "name": "pi-godot-toolkit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Godot 4 toolkit for pi: GDScript best practices, docs lookup, gdUnit4 tests and verification.",
   "license": "MIT",
   "type": "module",
