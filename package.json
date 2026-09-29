@@ -1,0 +1,37 @@
+{
+  "name": "pi-godot-toolkit",
+  "version": "0.0.1",
+  "description": "Godot 4 toolkit for pi: GDScript best practices, docs lookup, gdUnit4 tests and verification.",
+  "license": "MIT",
+  "type": "module",
+  "author": "Tudor Sandulescu",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tudddorrr/pi-godot-toolkit.git"
+  },
+  "homepage": "https://github.com/tudddorrr/pi-godot-toolkit#readme",
+  "bugs": {
+    "url": "https://github.com/tudddorrr/pi-godot-toolkit/issues"
+  },
+  "keywords": [
+    "pi-package",
+    "godot",
+    "gdscript",
+    "gdunit4"
+  ],
+  "pi": {
+    "extensions": [
+      "./extensions/godot.ts"
+    ]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  },
+  "files": [
+    "extensions",
+    "skills",
+    "tools",
+    "godot.md",
+    "README.md"
+  ]
+}
