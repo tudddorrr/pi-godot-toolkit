@@ -1,4 +1,4 @@
-# pi-godot-toolkit
+# Pi Godot toolkit
 
 An all-in-one extension for using Godot with [pi](https://pi.dev).
 
